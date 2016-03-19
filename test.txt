@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-0000
->>>>>>> problem
+Some random stuff
